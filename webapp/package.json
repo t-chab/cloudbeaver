@@ -38,7 +38,7 @@
     "lerna": "^3.22.1",
     "mobx": "^6.3.0",
     "mobx-react-lite": "^3.2.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "path-browserify": "^1.0.1",
     "preact": "^10.5.13",
     "preact-jsx-runtime": "^1.2.0",
